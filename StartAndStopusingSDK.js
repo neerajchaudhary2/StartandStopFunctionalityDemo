@@ -1,7 +1,7 @@
 const {sdk} = require("@symblai/symbl-js");
 
-const APP_ID = "6a346e3966646279377451386c6b68665069795271336d54676b7047486b4570";
-const APP_SECRET = '765f586c5a78644c78473065503457394d557645664d4b584b755971756a594333566171724a634174707953346f4b535175657638325257786a6c626d563334';
+const APP_ID = "<Add your Symbl APP Id here>";
+const APP_SECRET = '<Add Your Symbl App Secret here>';
 const USER_ID = 'Neeraj_Chauddhary';
 const FULL_NAME = 'Neeraj chaudhary';
 
